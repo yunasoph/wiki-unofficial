@@ -1,1 +1,1 @@
-This is a project describing various Mexican, Portuguese and Venezuelan cuisine and recipes.
+This is a project that acts as a mini unofficial wiki providing information regarding various fictional characters in the Marvel Universe.
