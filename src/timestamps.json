@@ -1,0 +1,1256 @@
+{
+  "source_file": "mathematically_you_should_reject_the_first_thirty (mp3cut.net).mp3",
+  "full_text": "Mathematically, you should reject the first 37% of people you date. In computer science, this is called optimal stopping. Whether you are hiring an employee, buying a house, or picking a partner, you face a paradox. If you commit too early, you miss the best option. But if you explore for too long, all the good options are gone. So mathematicians map the exact probability of winning. The answer is exactly 37%. For the first 37% of your search, you do not commit to anything. You just gather data to figure out what the baseline of good actually looks like. Once you pass that 37% mark, the rule changes. You immediately lock in the very first option that is better than the best thing you saw in your calibration phase. You do not wait, you strike. It doesn't guarantee a perfect outcome, but it mathematically guarantees the highest probability of success. So if you're holding out for perfection...",
+  "duration_s": 42.74,
+  "word_count": 161,
+  "words": [
+    {
+      "word": "Mathematically,",
+      "start": 0.48,
+      "end": 0.84,
+      "start_ms": 480,
+      "end_ms": 840
+    },
+    {
+      "word": "you",
+      "start": 1.08,
+      "end": 1.18,
+      "start_ms": 1080,
+      "end_ms": 1180
+    },
+    {
+      "word": "should",
+      "start": 1.18,
+      "end": 1.3,
+      "start_ms": 1180,
+      "end_ms": 1300
+    },
+    {
+      "word": "reject",
+      "start": 1.3,
+      "end": 1.58,
+      "start_ms": 1300,
+      "end_ms": 1580
+    },
+    {
+      "word": "the",
+      "start": 1.58,
+      "end": 1.72,
+      "start_ms": 1580,
+      "end_ms": 1720
+    },
+    {
+      "word": "first",
+      "start": 1.72,
+      "end": 1.92,
+      "start_ms": 1720,
+      "end_ms": 1920
+    },
+    {
+      "word": "37",
+      "start": 1.92,
+      "end": 2.38,
+      "start_ms": 1920,
+      "end_ms": 2380
+    },
+    {
+      "word": "%",
+      "start": 2.38,
+      "end": 2.66,
+      "start_ms": 2380,
+      "end_ms": 2660
+    },
+    {
+      "word": "of",
+      "start": 2.66,
+      "end": 2.78,
+      "start_ms": 2660,
+      "end_ms": 2780
+    },
+    {
+      "word": "people",
+      "start": 2.78,
+      "end": 2.98,
+      "start_ms": 2780,
+      "end_ms": 2980
+    },
+    {
+      "word": "you",
+      "start": 2.98,
+      "end": 3.16,
+      "start_ms": 2980,
+      "end_ms": 3160
+    },
+    {
+      "word": "date.",
+      "start": 3.16,
+      "end": 3.36,
+      "start_ms": 3160,
+      "end_ms": 3360
+    },
+    {
+      "word": "In",
+      "start": 4.06,
+      "end": 4.24,
+      "start_ms": 4060,
+      "end_ms": 4240
+    },
+    {
+      "word": "computer",
+      "start": 4.24,
+      "end": 4.48,
+      "start_ms": 4240,
+      "end_ms": 4480
+    },
+    {
+      "word": "science,",
+      "start": 4.48,
+      "end": 4.8,
+      "start_ms": 4480,
+      "end_ms": 4800
+    },
+    {
+      "word": "this",
+      "start": 4.96,
+      "end": 5.04,
+      "start_ms": 4960,
+      "end_ms": 5040
+    },
+    {
+      "word": "is",
+      "start": 5.04,
+      "end": 5.16,
+      "start_ms": 5040,
+      "end_ms": 5160
+    },
+    {
+      "word": "called",
+      "start": 5.16,
+      "end": 5.34,
+      "start_ms": 5160,
+      "end_ms": 5340
+    },
+    {
+      "word": "optimal",
+      "start": 5.34,
+      "end": 5.72,
+      "start_ms": 5340,
+      "end_ms": 5720
+    },
+    {
+      "word": "stopping.",
+      "start": 5.72,
+      "end": 6.08,
+      "start_ms": 5720,
+      "end_ms": 6080
+    },
+    {
+      "word": "Whether",
+      "start": 6.5,
+      "end": 6.64,
+      "start_ms": 6500,
+      "end_ms": 6640
+    },
+    {
+      "word": "you",
+      "start": 6.64,
+      "end": 6.8,
+      "start_ms": 6640,
+      "end_ms": 6800
+    },
+    {
+      "word": "are",
+      "start": 6.8,
+      "end": 6.86,
+      "start_ms": 6800,
+      "end_ms": 6860
+    },
+    {
+      "word": "hiring",
+      "start": 6.86,
+      "end": 7.1,
+      "start_ms": 6860,
+      "end_ms": 7100
+    },
+    {
+      "word": "an",
+      "start": 7.1,
+      "end": 7.26,
+      "start_ms": 7100,
+      "end_ms": 7260
+    },
+    {
+      "word": "employee,",
+      "start": 7.26,
+      "end": 7.5,
+      "start_ms": 7260,
+      "end_ms": 7500
+    },
+    {
+      "word": "buying",
+      "start": 7.74,
+      "end": 7.86,
+      "start_ms": 7740,
+      "end_ms": 7860
+    },
+    {
+      "word": "a",
+      "start": 7.86,
+      "end": 8.02,
+      "start_ms": 7860,
+      "end_ms": 8020
+    },
+    {
+      "word": "house,",
+      "start": 8.02,
+      "end": 8.26,
+      "start_ms": 8020,
+      "end_ms": 8260
+    },
+    {
+      "word": "or",
+      "start": 8.34,
+      "end": 8.42,
+      "start_ms": 8340,
+      "end_ms": 8420
+    },
+    {
+      "word": "picking",
+      "start": 8.42,
+      "end": 8.6,
+      "start_ms": 8420,
+      "end_ms": 8600
+    },
+    {
+      "word": "a",
+      "start": 8.6,
+      "end": 8.74,
+      "start_ms": 8600,
+      "end_ms": 8740
+    },
+    {
+      "word": "partner,",
+      "start": 8.74,
+      "end": 8.96,
+      "start_ms": 8740,
+      "end_ms": 8960
+    },
+    {
+      "word": "you",
+      "start": 9.16,
+      "end": 9.16,
+      "start_ms": 9160,
+      "end_ms": 9160
+    },
+    {
+      "word": "face",
+      "start": 9.16,
+      "end": 9.38,
+      "start_ms": 9160,
+      "end_ms": 9380
+    },
+    {
+      "word": "a",
+      "start": 9.38,
+      "end": 9.48,
+      "start_ms": 9380,
+      "end_ms": 9480
+    },
+    {
+      "word": "paradox.",
+      "start": 9.48,
+      "end": 9.8,
+      "start_ms": 9480,
+      "end_ms": 9800
+    },
+    {
+      "word": "If",
+      "start": 10.04,
+      "end": 10.14,
+      "start_ms": 10040,
+      "end_ms": 10140
+    },
+    {
+      "word": "you",
+      "start": 10.14,
+      "end": 10.24,
+      "start_ms": 10140,
+      "end_ms": 10240
+    },
+    {
+      "word": "commit",
+      "start": 10.24,
+      "end": 10.38,
+      "start_ms": 10240,
+      "end_ms": 10380
+    },
+    {
+      "word": "too",
+      "start": 10.38,
+      "end": 10.58,
+      "start_ms": 10380,
+      "end_ms": 10580
+    },
+    {
+      "word": "early,",
+      "start": 10.58,
+      "end": 10.82,
+      "start_ms": 10580,
+      "end_ms": 10820
+    },
+    {
+      "word": "you",
+      "start": 10.96,
+      "end": 11.0,
+      "start_ms": 10960,
+      "end_ms": 11000
+    },
+    {
+      "word": "miss",
+      "start": 11.0,
+      "end": 11.14,
+      "start_ms": 11000,
+      "end_ms": 11140
+    },
+    {
+      "word": "the",
+      "start": 11.14,
+      "end": 11.24,
+      "start_ms": 11140,
+      "end_ms": 11240
+    },
+    {
+      "word": "best",
+      "start": 11.24,
+      "end": 11.4,
+      "start_ms": 11240,
+      "end_ms": 11400
+    },
+    {
+      "word": "option.",
+      "start": 11.4,
+      "end": 11.74,
+      "start_ms": 11400,
+      "end_ms": 11740
+    },
+    {
+      "word": "But",
+      "start": 12.02,
+      "end": 12.18,
+      "start_ms": 12020,
+      "end_ms": 12180
+    },
+    {
+      "word": "if",
+      "start": 12.18,
+      "end": 12.26,
+      "start_ms": 12180,
+      "end_ms": 12260
+    },
+    {
+      "word": "you",
+      "start": 12.26,
+      "end": 12.32,
+      "start_ms": 12260,
+      "end_ms": 12320
+    },
+    {
+      "word": "explore",
+      "start": 12.32,
+      "end": 12.64,
+      "start_ms": 12320,
+      "end_ms": 12640
+    },
+    {
+      "word": "for",
+      "start": 12.64,
+      "end": 12.78,
+      "start_ms": 12640,
+      "end_ms": 12780
+    },
+    {
+      "word": "too",
+      "start": 12.78,
+      "end": 12.9,
+      "start_ms": 12780,
+      "end_ms": 12900
+    },
+    {
+      "word": "long,",
+      "start": 12.9,
+      "end": 13.1,
+      "start_ms": 12900,
+      "end_ms": 13100
+    },
+    {
+      "word": "all",
+      "start": 13.26,
+      "end": 13.36,
+      "start_ms": 13260,
+      "end_ms": 13360
+    },
+    {
+      "word": "the",
+      "start": 13.36,
+      "end": 13.48,
+      "start_ms": 13360,
+      "end_ms": 13480
+    },
+    {
+      "word": "good",
+      "start": 13.48,
+      "end": 13.58,
+      "start_ms": 13480,
+      "end_ms": 13580
+    },
+    {
+      "word": "options",
+      "start": 13.58,
+      "end": 13.8,
+      "start_ms": 13580,
+      "end_ms": 13800
+    },
+    {
+      "word": "are",
+      "start": 13.8,
+      "end": 13.98,
+      "start_ms": 13800,
+      "end_ms": 13980
+    },
+    {
+      "word": "gone.",
+      "start": 13.98,
+      "end": 14.16,
+      "start_ms": 13980,
+      "end_ms": 14160
+    },
+    {
+      "word": "So",
+      "start": 15.04,
+      "end": 15.4,
+      "start_ms": 15040,
+      "end_ms": 15400
+    },
+    {
+      "word": "mathematicians",
+      "start": 15.4,
+      "end": 15.76,
+      "start_ms": 15400,
+      "end_ms": 15760
+    },
+    {
+      "word": "map",
+      "start": 15.76,
+      "end": 16.0,
+      "start_ms": 15760,
+      "end_ms": 16000
+    },
+    {
+      "word": "the",
+      "start": 16.0,
+      "end": 16.16,
+      "start_ms": 16000,
+      "end_ms": 16160
+    },
+    {
+      "word": "exact",
+      "start": 16.16,
+      "end": 16.46,
+      "start_ms": 16160,
+      "end_ms": 16460
+    },
+    {
+      "word": "probability",
+      "start": 16.46,
+      "end": 16.8,
+      "start_ms": 16460,
+      "end_ms": 16800
+    },
+    {
+      "word": "of",
+      "start": 16.8,
+      "end": 17.1,
+      "start_ms": 16800,
+      "end_ms": 17100
+    },
+    {
+      "word": "winning.",
+      "start": 17.1,
+      "end": 17.24,
+      "start_ms": 17100,
+      "end_ms": 17240
+    },
+    {
+      "word": "The",
+      "start": 17.64,
+      "end": 17.74,
+      "start_ms": 17640,
+      "end_ms": 17740
+    },
+    {
+      "word": "answer",
+      "start": 17.74,
+      "end": 17.98,
+      "start_ms": 17740,
+      "end_ms": 17980
+    },
+    {
+      "word": "is",
+      "start": 17.98,
+      "end": 18.18,
+      "start_ms": 17980,
+      "end_ms": 18180
+    },
+    {
+      "word": "exactly",
+      "start": 18.18,
+      "end": 18.54,
+      "start_ms": 18180,
+      "end_ms": 18540
+    },
+    {
+      "word": "37%.",
+      "start": 18.54,
+      "end": 19.48,
+      "start_ms": 18540,
+      "end_ms": 19480
+    },
+    {
+      "word": "For",
+      "start": 19.98,
+      "end": 20.34,
+      "start_ms": 19980,
+      "end_ms": 20340
+    },
+    {
+      "word": "the",
+      "start": 20.34,
+      "end": 20.44,
+      "start_ms": 20340,
+      "end_ms": 20440
+    },
+    {
+      "word": "first",
+      "start": 20.44,
+      "end": 20.64,
+      "start_ms": 20440,
+      "end_ms": 20640
+    },
+    {
+      "word": "37",
+      "start": 20.64,
+      "end": 21.06,
+      "start_ms": 20640,
+      "end_ms": 21060
+    },
+    {
+      "word": "%",
+      "start": 21.06,
+      "end": 21.42,
+      "start_ms": 21060,
+      "end_ms": 21420
+    },
+    {
+      "word": "of",
+      "start": 21.42,
+      "end": 21.58,
+      "start_ms": 21420,
+      "end_ms": 21580
+    },
+    {
+      "word": "your",
+      "start": 21.58,
+      "end": 21.68,
+      "start_ms": 21580,
+      "end_ms": 21680
+    },
+    {
+      "word": "search,",
+      "start": 21.68,
+      "end": 21.9,
+      "start_ms": 21680,
+      "end_ms": 21900
+    },
+    {
+      "word": "you",
+      "start": 22.08,
+      "end": 22.14,
+      "start_ms": 22080,
+      "end_ms": 22140
+    },
+    {
+      "word": "do",
+      "start": 22.14,
+      "end": 22.22,
+      "start_ms": 22140,
+      "end_ms": 22220
+    },
+    {
+      "word": "not",
+      "start": 22.22,
+      "end": 22.36,
+      "start_ms": 22220,
+      "end_ms": 22360
+    },
+    {
+      "word": "commit",
+      "start": 22.36,
+      "end": 22.6,
+      "start_ms": 22360,
+      "end_ms": 22600
+    },
+    {
+      "word": "to",
+      "start": 22.6,
+      "end": 22.72,
+      "start_ms": 22600,
+      "end_ms": 22720
+    },
+    {
+      "word": "anything.",
+      "start": 22.72,
+      "end": 22.9,
+      "start_ms": 22720,
+      "end_ms": 22900
+    },
+    {
+      "word": "You",
+      "start": 23.26,
+      "end": 23.42,
+      "start_ms": 23260,
+      "end_ms": 23420
+    },
+    {
+      "word": "just",
+      "start": 23.42,
+      "end": 23.58,
+      "start_ms": 23420,
+      "end_ms": 23580
+    },
+    {
+      "word": "gather",
+      "start": 23.58,
+      "end": 23.76,
+      "start_ms": 23580,
+      "end_ms": 23760
+    },
+    {
+      "word": "data",
+      "start": 23.76,
+      "end": 24.06,
+      "start_ms": 23760,
+      "end_ms": 24060
+    },
+    {
+      "word": "to",
+      "start": 24.06,
+      "end": 24.18,
+      "start_ms": 24060,
+      "end_ms": 24180
+    },
+    {
+      "word": "figure",
+      "start": 24.18,
+      "end": 24.38,
+      "start_ms": 24180,
+      "end_ms": 24380
+    },
+    {
+      "word": "out",
+      "start": 24.38,
+      "end": 24.54,
+      "start_ms": 24380,
+      "end_ms": 24540
+    },
+    {
+      "word": "what",
+      "start": 24.54,
+      "end": 24.64,
+      "start_ms": 24540,
+      "end_ms": 24640
+    },
+    {
+      "word": "the",
+      "start": 24.64,
+      "end": 24.74,
+      "start_ms": 24640,
+      "end_ms": 24740
+    },
+    {
+      "word": "baseline",
+      "start": 24.74,
+      "end": 25.02,
+      "start_ms": 24740,
+      "end_ms": 25020
+    },
+    {
+      "word": "of",
+      "start": 25.02,
+      "end": 25.2,
+      "start_ms": 25020,
+      "end_ms": 25200
+    },
+    {
+      "word": "good",
+      "start": 25.2,
+      "end": 25.4,
+      "start_ms": 25200,
+      "end_ms": 25400
+    },
+    {
+      "word": "actually",
+      "start": 25.4,
+      "end": 25.84,
+      "start_ms": 25400,
+      "end_ms": 25840
+    },
+    {
+      "word": "looks",
+      "start": 25.84,
+      "end": 26.08,
+      "start_ms": 25840,
+      "end_ms": 26080
+    },
+    {
+      "word": "like.",
+      "start": 26.08,
+      "end": 26.36,
+      "start_ms": 26080,
+      "end_ms": 26360
+    },
+    {
+      "word": "Once",
+      "start": 26.78,
+      "end": 27.18,
+      "start_ms": 26780,
+      "end_ms": 27180
+    },
+    {
+      "word": "you",
+      "start": 27.18,
+      "end": 27.32,
+      "start_ms": 27180,
+      "end_ms": 27320
+    },
+    {
+      "word": "pass",
+      "start": 27.32,
+      "end": 27.52,
+      "start_ms": 27320,
+      "end_ms": 27520
+    },
+    {
+      "word": "that",
+      "start": 27.52,
+      "end": 27.7,
+      "start_ms": 27520,
+      "end_ms": 27700
+    },
+    {
+      "word": "37",
+      "start": 27.7,
+      "end": 28.1,
+      "start_ms": 27700,
+      "end_ms": 28100
+    },
+    {
+      "word": "%",
+      "start": 28.1,
+      "end": 28.52,
+      "start_ms": 28100,
+      "end_ms": 28520
+    },
+    {
+      "word": "mark,",
+      "start": 28.52,
+      "end": 28.76,
+      "start_ms": 28520,
+      "end_ms": 28760
+    },
+    {
+      "word": "the",
+      "start": 28.9,
+      "end": 28.9,
+      "start_ms": 28900,
+      "end_ms": 28900
+    },
+    {
+      "word": "rule",
+      "start": 28.9,
+      "end": 29.04,
+      "start_ms": 28900,
+      "end_ms": 29040
+    },
+    {
+      "word": "changes.",
+      "start": 29.04,
+      "end": 29.34,
+      "start_ms": 29040,
+      "end_ms": 29340
+    },
+    {
+      "word": "You",
+      "start": 29.86,
+      "end": 29.9,
+      "start_ms": 29860,
+      "end_ms": 29900
+    },
+    {
+      "word": "immediately",
+      "start": 29.9,
+      "end": 30.2,
+      "start_ms": 29900,
+      "end_ms": 30200
+    },
+    {
+      "word": "lock",
+      "start": 30.2,
+      "end": 30.54,
+      "start_ms": 30200,
+      "end_ms": 30540
+    },
+    {
+      "word": "in",
+      "start": 30.54,
+      "end": 30.64,
+      "start_ms": 30540,
+      "end_ms": 30640
+    },
+    {
+      "word": "the",
+      "start": 30.64,
+      "end": 30.7,
+      "start_ms": 30640,
+      "end_ms": 30700
+    },
+    {
+      "word": "very",
+      "start": 30.7,
+      "end": 30.88,
+      "start_ms": 30700,
+      "end_ms": 30880
+    },
+    {
+      "word": "first",
+      "start": 30.88,
+      "end": 31.1,
+      "start_ms": 30880,
+      "end_ms": 31100
+    },
+    {
+      "word": "option",
+      "start": 31.1,
+      "end": 31.44,
+      "start_ms": 31100,
+      "end_ms": 31440
+    },
+    {
+      "word": "that",
+      "start": 31.44,
+      "end": 31.58,
+      "start_ms": 31440,
+      "end_ms": 31580
+    },
+    {
+      "word": "is",
+      "start": 31.58,
+      "end": 31.68,
+      "start_ms": 31580,
+      "end_ms": 31680
+    },
+    {
+      "word": "better",
+      "start": 31.68,
+      "end": 31.86,
+      "start_ms": 31680,
+      "end_ms": 31860
+    },
+    {
+      "word": "than",
+      "start": 31.86,
+      "end": 31.98,
+      "start_ms": 31860,
+      "end_ms": 31980
+    },
+    {
+      "word": "the",
+      "start": 31.98,
+      "end": 32.06,
+      "start_ms": 31980,
+      "end_ms": 32060
+    },
+    {
+      "word": "best",
+      "start": 32.06,
+      "end": 32.24,
+      "start_ms": 32060,
+      "end_ms": 32240
+    },
+    {
+      "word": "thing",
+      "start": 32.24,
+      "end": 32.42,
+      "start_ms": 32240,
+      "end_ms": 32420
+    },
+    {
+      "word": "you",
+      "start": 32.42,
+      "end": 32.54,
+      "start_ms": 32420,
+      "end_ms": 32540
+    },
+    {
+      "word": "saw",
+      "start": 32.54,
+      "end": 32.72,
+      "start_ms": 32540,
+      "end_ms": 32720
+    },
+    {
+      "word": "in",
+      "start": 32.72,
+      "end": 32.82,
+      "start_ms": 32720,
+      "end_ms": 32820
+    },
+    {
+      "word": "your",
+      "start": 32.82,
+      "end": 32.9,
+      "start_ms": 32820,
+      "end_ms": 32900
+    },
+    {
+      "word": "calibration",
+      "start": 32.9,
+      "end": 33.3,
+      "start_ms": 32900,
+      "end_ms": 33300
+    },
+    {
+      "word": "phase.",
+      "start": 33.3,
+      "end": 33.64,
+      "start_ms": 33300,
+      "end_ms": 33640
+    },
+    {
+      "word": "You",
+      "start": 34.04,
+      "end": 34.16,
+      "start_ms": 34040,
+      "end_ms": 34160
+    },
+    {
+      "word": "do",
+      "start": 34.16,
+      "end": 34.2,
+      "start_ms": 34160,
+      "end_ms": 34200
+    },
+    {
+      "word": "not",
+      "start": 34.2,
+      "end": 34.34,
+      "start_ms": 34200,
+      "end_ms": 34340
+    },
+    {
+      "word": "wait,",
+      "start": 34.34,
+      "end": 34.54,
+      "start_ms": 34340,
+      "end_ms": 34540
+    },
+    {
+      "word": "you",
+      "start": 34.7,
+      "end": 34.78,
+      "start_ms": 34700,
+      "end_ms": 34780
+    },
+    {
+      "word": "strike.",
+      "start": 34.78,
+      "end": 35.0,
+      "start_ms": 34780,
+      "end_ms": 35000
+    },
+    {
+      "word": "It",
+      "start": 35.74,
+      "end": 35.88,
+      "start_ms": 35740,
+      "end_ms": 35880
+    },
+    {
+      "word": "doesn't",
+      "start": 35.88,
+      "end": 36.16,
+      "start_ms": 35880,
+      "end_ms": 36160
+    },
+    {
+      "word": "guarantee",
+      "start": 36.16,
+      "end": 36.46,
+      "start_ms": 36160,
+      "end_ms": 36460
+    },
+    {
+      "word": "a",
+      "start": 36.46,
+      "end": 36.6,
+      "start_ms": 36460,
+      "end_ms": 36600
+    },
+    {
+      "word": "perfect",
+      "start": 36.6,
+      "end": 36.84,
+      "start_ms": 36600,
+      "end_ms": 36840
+    },
+    {
+      "word": "outcome,",
+      "start": 36.84,
+      "end": 37.26,
+      "start_ms": 36840,
+      "end_ms": 37260
+    },
+    {
+      "word": "but",
+      "start": 37.48,
+      "end": 37.62,
+      "start_ms": 37480,
+      "end_ms": 37620
+    },
+    {
+      "word": "it",
+      "start": 37.62,
+      "end": 37.7,
+      "start_ms": 37620,
+      "end_ms": 37700
+    },
+    {
+      "word": "mathematically",
+      "start": 37.7,
+      "end": 38.16,
+      "start_ms": 37700,
+      "end_ms": 38160
+    },
+    {
+      "word": "guarantees",
+      "start": 38.16,
+      "end": 38.7,
+      "start_ms": 38160,
+      "end_ms": 38700
+    },
+    {
+      "word": "the",
+      "start": 38.7,
+      "end": 38.9,
+      "start_ms": 38700,
+      "end_ms": 38900
+    },
+    {
+      "word": "highest",
+      "start": 38.9,
+      "end": 39.18,
+      "start_ms": 38900,
+      "end_ms": 39180
+    },
+    {
+      "word": "probability",
+      "start": 39.18,
+      "end": 39.56,
+      "start_ms": 39180,
+      "end_ms": 39560
+    },
+    {
+      "word": "of",
+      "start": 39.56,
+      "end": 39.82,
+      "start_ms": 39560,
+      "end_ms": 39820
+    },
+    {
+      "word": "success.",
+      "start": 39.82,
+      "end": 40.12,
+      "start_ms": 39820,
+      "end_ms": 40120
+    },
+    {
+      "word": "So",
+      "start": 40.84,
+      "end": 41.08,
+      "start_ms": 40840,
+      "end_ms": 41080
+    },
+    {
+      "word": "if",
+      "start": 41.08,
+      "end": 41.22,
+      "start_ms": 41080,
+      "end_ms": 41220
+    },
+    {
+      "word": "you're",
+      "start": 41.22,
+      "end": 41.36,
+      "start_ms": 41220,
+      "end_ms": 41360
+    },
+    {
+      "word": "holding",
+      "start": 41.36,
+      "end": 41.56,
+      "start_ms": 41360,
+      "end_ms": 41560
+    },
+    {
+      "word": "out",
+      "start": 41.56,
+      "end": 41.78,
+      "start_ms": 41560,
+      "end_ms": 41780
+    },
+    {
+      "word": "for",
+      "start": 41.78,
+      "end": 41.9,
+      "start_ms": 41780,
+      "end_ms": 41900
+    },
+    {
+      "word": "perfection...",
+      "start": 41.9,
+      "end": 42.74,
+      "start_ms": 41900,
+      "end_ms": 42740
+    }
+  ],
+  "segments": [
+    {
+      "text": "Mathematically, you should reject the first 37% of people you date.",
+      "start": 0.48,
+      "end": 3.36,
+      "start_ms": 480,
+      "end_ms": 3360
+    },
+    {
+      "text": "In computer science, this is called optimal stopping.",
+      "start": 4.06,
+      "end": 6.08,
+      "start_ms": 4060,
+      "end_ms": 6080
+    },
+    {
+      "text": "Whether you are hiring an employee, buying a house, or picking a partner, you face a",
+      "start": 6.5,
+      "end": 9.48,
+      "start_ms": 6500,
+      "end_ms": 9480
+    },
+    {
+      "text": "paradox.",
+      "start": 9.48,
+      "end": 9.8,
+      "start_ms": 9480,
+      "end_ms": 9800
+    },
+    {
+      "text": "If you commit too early, you miss the best option.",
+      "start": 10.04,
+      "end": 11.74,
+      "start_ms": 10040,
+      "end_ms": 11740
+    },
+    {
+      "text": "But if you explore for too long, all the good options are gone.",
+      "start": 12.02,
+      "end": 14.16,
+      "start_ms": 12020,
+      "end_ms": 14160
+    },
+    {
+      "text": "So mathematicians map the exact probability of winning.",
+      "start": 15.04,
+      "end": 17.24,
+      "start_ms": 15040,
+      "end_ms": 17240
+    },
+    {
+      "text": "The answer is exactly 37%.",
+      "start": 17.64,
+      "end": 19.48,
+      "start_ms": 17640,
+      "end_ms": 19480
+    },
+    {
+      "text": "For the first 37% of your search, you do not commit to anything.",
+      "start": 19.98,
+      "end": 22.9,
+      "start_ms": 19980,
+      "end_ms": 22900
+    },
+    {
+      "text": "You just gather data to figure out what the baseline of good actually looks like.",
+      "start": 23.26,
+      "end": 26.36,
+      "start_ms": 23260,
+      "end_ms": 26360
+    },
+    {
+      "text": "Once you pass that 37% mark, the rule changes.",
+      "start": 26.78,
+      "end": 29.34,
+      "start_ms": 26780,
+      "end_ms": 29340
+    },
+    {
+      "text": "You immediately lock in the very first option that is better than the best thing you saw",
+      "start": 29.86,
+      "end": 32.72,
+      "start_ms": 29860,
+      "end_ms": 32720
+    },
+    {
+      "text": "in your calibration phase.",
+      "start": 32.72,
+      "end": 33.64,
+      "start_ms": 32720,
+      "end_ms": 33640
+    },
+    {
+      "text": "You do not wait, you strike.",
+      "start": 34.04,
+      "end": 35.0,
+      "start_ms": 34040,
+      "end_ms": 35000
+    },
+    {
+      "text": "It doesn't guarantee a perfect outcome, but it mathematically guarantees the highest",
+      "start": 35.74,
+      "end": 39.18,
+      "start_ms": 35740,
+      "end_ms": 39180
+    },
+    {
+      "text": "probability of success.",
+      "start": 39.18,
+      "end": 40.12,
+      "start_ms": 39180,
+      "end_ms": 40120
+    },
+    {
+      "text": "So if you're holding out for perfection...",
+      "start": 40.84,
+      "end": 42.74,
+      "start_ms": 40840,
+      "end_ms": 42740
+    }
+  ]
+}
